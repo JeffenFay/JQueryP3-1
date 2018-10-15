@@ -21,3 +21,13 @@ body{
 #text{
   background-color: lightgrey;
 }
+#value{
+  background-color: red;
+  font-size: 10rem;
+}
+#increment{
+  width: 50rem;
+  height: 5rem;
+  font-size: 2rem;
+  background-color: lightgreen;
+}
