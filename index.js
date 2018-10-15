@@ -1,4 +1,4 @@
-var nbrClick = 1;
+var nbrClick = 0;
 $('#increment').click(function(){
-  $('#value').text(nbrClick++);
+  $('#value').text(nbrClick+=1);
 })
